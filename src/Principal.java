@@ -90,7 +90,7 @@ public class Principal {
                         break;
                 }
                 // Mostrar resultados de la conversión
-                System.out.println("El resultado de convertir " + cantidad + siglasBase + " a " + siglasConversion + " es de: " + resultado + siglasConversion + ".");
+                System.out.println("El resultado de convertir " + cantidad + siglasBase + " a " + siglasConversion + " es de: " + String.format("%.2f",resultado) + siglasConversion + ".");
                 System.out.println("Gracias por usar el conversor de monedas, si desea hacer mas conversiones ejecute de nuevo el programa.");
                 break;
             }
