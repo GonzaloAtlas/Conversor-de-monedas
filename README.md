@@ -14,24 +14,21 @@
 * [Características de la aplicación](#Características-de-la-aplicación)
 
    - Interfaz de consola intuitiva para ingresar valores y seleccionar monedas.
-  
    - Conversión entre múltiples divisas populares como USD (Dolar), ARS (Peso Argentino), BRL (Real Brasileño), COP (Peso Colombiano).
-  
    - Formateo de resultados con dos decimales para mayor claridad.
-  
    - Validación de entradas para evitar errores en el uso.
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-   Lenguaje: Java
-   Librerías utilizadas:
-   HttpClient, HttpRequest, HttpResponse para las solicitudes a la API
-   Manejo de JSON mediante herramientas como Gson.
-   API utilizada: ExchangeRate, que garantiza datos actualizados y confiables.
+   - Lenguaje: Java
+   - Librerías utilizadas:
+   - HttpClient, HttpRequest, HttpResponse para las solicitudes a la API
+   - Manejo de JSON mediante herramientas como Gson.
+   - API utilizada: ExchangeRate, que garantiza datos actualizados y confiables.
 
 * [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-   Gonzalo Alonso Flores Vielma
+   Gonzalo Alonso Flores Vielma - Con el apoyo y mentorias de Alura Latam 
 
 * [Conclusión](#conclusión)
    Este conversor de monedas en Java proporciona una solución accesible para la conversión de divisas, mostrando cómo las habilidades de programación pueden aplicarse para resolver problemas 
