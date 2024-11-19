@@ -14,8 +14,11 @@
 * [Características de la aplicación](#Características-de-la-aplicación)
 
    - Interfaz de consola intuitiva para ingresar valores y seleccionar monedas.
+  
    - Conversión entre múltiples divisas populares como USD (Dolar), ARS (Peso Argentino), BRL (Real Brasileño), COP (Peso Colombiano).
+  
    - Formateo de resultados con dos decimales para mayor claridad.
+  
    - Validación de entradas para evitar errores en el uso.
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
